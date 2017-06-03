@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [France](chapter1.md)
+* [France](france.md)
 * [USA](usa.md)
 
